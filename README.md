@@ -41,7 +41,7 @@ AQF/
 
 ## Statut du Projet
 - [x] Définition de l'architecture logicielle.
-- [ ] Identification et acquisition du dataset optimal.
+- [x] Identification et acquisition du dataset optimal.
 - [ ] Nettoyage et transformation des données (ETL).
 - [ ] Analyse descriptive et corrélations.
 - [ ] Visualisation et rédaction du rapport final.
