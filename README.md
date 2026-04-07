@@ -1,13 +1,13 @@
-# 🌬️ AQF - Air Quality France : Analyse Stratégique OpenData
+# AQF - Air Quality France : Analyse Stratégique OpenData
 
 > *« Transformer l'invisible (la pollution) en intelligence décisionnelle. »*
 
 ---
 
-## 📋 Présentation du Projet
+## Présentation du Projet
 Ce projet est une immersion profonde dans les données de la **qualité de l'air en France**. L'objectif est de transformer des millions de mesures brutes multi-annuelles en une analyse stratégique claire, identifiant les tendances temporelles et les corrélations critiques entre les polluants et les facteurs environnementaux.
 
-### 🎯 Objectifs Stratégiques
+### Objectifs Stratégiques
 1. **Pipeline ETL Robuste :** Nettoyage chirurgical des données hétérogènes (Python/Pandas).
 2. **Intelligence Temporelle :** Détection des cycles saisonniers et des ruptures historiques (ex: impact du COVID-19).
 3. **Indices de Criticité :** Création d'indicateurs personnalisés basés sur les seuils OMS.
@@ -16,7 +16,7 @@ Ce projet est une immersion profonde dans les données de la **qualité de l'air
 
 ---
 
-## 🏗️ Architecture du Projet
+## Architecture du Projet
 ```text
 AQF/
 ├── data/               # Le coffre-fort des données
@@ -31,7 +31,7 @@ AQF/
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 - **Langage :** Python 3.x
 - **Manipulation de Données :** Pandas, Numpy
 - **Visualisation :** Matplotlib, Seaborn, Plotly (interactif)
@@ -39,7 +39,7 @@ AQF/
 
 ---
 
-## 📈 Statut du Projet
+## Statut du Projet
 - [x] Définition de l'architecture logicielle.
 - [ ] Identification et acquisition du dataset optimal.
 - [ ] Nettoyage et transformation des données (ETL).
