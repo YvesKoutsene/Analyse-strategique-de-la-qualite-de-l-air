@@ -11,7 +11,7 @@ L'analyse des **22 512 mesures** collectées en janvier 2026 révèle une situat
 
 ---
 
-## 2. 📊 Tableau de Bord des Indicateurs
+## 2. Tableau de Bord des Indicateurs
 
 | Région (Organisme) | Polluant | Moyenne (µg/m³) | Maximum | Taux de Dépassement* | Score Santé |
 | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -48,11 +48,11 @@ C'est le point noir de janvier 2026.
 
 ## 4. Recommandations Stratégiques
 
-### 📍 Recommandation 1 : Plan "Chauffage Propre" (ARA & Occitanie)
+### Recommandation 1 : Plan "Chauffage Propre" (ARA & Occitanie)
 Les données montrent que les $PM_{2.5}$ explosent en janvier. 
 - **Action :** Accélérer le remplacement des foyers ouverts par des systèmes à granulés haute performance.
 
-### 📍 Recommandation 2 : Pilotage Dynamique du Trafic (IDF)
+### Recommandation 2 : Pilotage Dynamique du Trafic (IDF)
 Le $NO_2$ est corrélé aux flux pendulaires.
 - **Action :** Mise en place de limitations de vitesse dynamiques basées sur les seuils de 40 µg/m³.
 
@@ -62,4 +62,3 @@ Le $NO_2$ est corrélé aux flux pendulaires.
 La qualité de l'air en France en 2026 reste un défi majeur pour la santé publique, particulièrement en période hivernale. Ce rapport, basé sur une analyse rigoureuse, fournit les clés pour des politiques ciblées et efficaces.
 
 ---
-*Rapport généré par le pipeline d'analyse AQF - Excellence technologique au service de l'environnement.*
