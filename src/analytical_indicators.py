@@ -35,7 +35,7 @@ def calculate_strategic_indicators(input_path, output_path):
         over_threshold = (subset['valeur'] > threshold).sum()
         return (over_threshold / len(subset)) * 100
 
-    print("⚡ Calcul des taux de dépassement (ceci peut prendre quelques secondes)...")
+    print("Calcul des taux de dépassement (ceci peut prendre quelques secondes)...")
     summary['taux_depassement_pct'] = summary.apply(get_exceedance_rate, axis=1)
     
     # 3. Attribution d'un Score de Santé (A à E)
