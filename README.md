@@ -1,4 +1,4 @@
-# 🌬️ Air Quality France (AQF) : Ce que nous respirons vraiment
+# Air Quality France (AQF) : Ce que nous respirons vraiment
 
 Bienvenue dans ce projet. Ici, on ne fait pas que manipuler des fichiers CSV. On a plongé dans les données réelles du **LCSQA** pour comprendre la réalité de la pollution de l'air en France en ce début d'année 2026. 
 
@@ -6,10 +6,10 @@ Pourquoi ce projet ? Parce que derrière chaque microgramme de poussière fine o
 
 ---
 
-## 🧐 Le constat : Entre ville et nature
+## Le constat : Entre ville et nature
 J'ai analysé plus de **22 000 mesures** sur tout le territoire. Ce qui saute aux yeux, c'est ce contraste saisissant entre la pureté de l'air en Outre-mer et les défis énormes que rencontrent des régions comme l'Occitanie ou Auvergne-Rhône-Alpes en hiver.
 
-### 📊 Ce que les chiffres nous racontent :
+### Ce que les chiffres nous racontent :
 
 #### 1. Le rythme de nos journées
 Le graphique ci-dessous montre bien que la pollution ne dort jamais vraiment, mais qu'elle a ses pics. On voit clairement l'impact de nos déplacements quotidiens sur les concentrations de NO2.
@@ -29,7 +29,7 @@ Cette "carte de chaleur" nous montre les moments où l'air est devenu irrespirab
 
 ---
 
-## 🛠️ Comment j'ai bossé
+## Comment j'ai bossé
 J'ai voulu que ce projet soit aussi propre techniquement qu'un air de montagne :
 - **Extraction & Nettoyage :** Un script Python qui trie le vrai du faux.
 - **Analyse :** Utilisation de Pandas pour transformer la masse de données en indicateurs concrets.
@@ -38,10 +38,9 @@ J'ai voulu que ce projet soit aussi propre techniquement qu'un air de montagne :
 
 ---
 
-## 💡 Ma conclusion
+## Ma conclusion
 La data science n'est utile que si elle aide à prendre de meilleures décisions. Ce projet m'a permis de mettre le doigt sur des zones rouges où l'action publique doit s'intensifier, notamment sur les particules fines en hiver.
 
 *Si vous voulez en savoir plus, n'hésitez pas à jeter un œil au [Rapport Stratégique complet](reports/RAPPORT_STRATEGIQUE.md).*
 
 ---
-**Jean-Yves** - *Data Analyst passionné par les enjeux environnementaux.*
