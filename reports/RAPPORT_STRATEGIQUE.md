@@ -1,4 +1,4 @@
-# 🌬️ Rapport Stratégique : Qualité de l'Air en France (Janvier 2026)
+# Rapport Stratégique : Qualité de l'Air en France (Janvier 2026)
 
 > **Auteur :** Jean-Yves / AQF Project  
 > **Date :** Avril 2026  
